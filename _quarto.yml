@@ -11,15 +11,21 @@ website:
     logo: img/logo_cist_small.jpg
     contents:
       - href: index.qmd
-        text: "Objectifs"
-      - href: Enseigne_R.qmd
-        text: "Obj.1 Statistiques avec R"
-      - href: Magrit.qmd
-        text: "Obj.2 Cartographie avec Magrit"
-      - href: Access.qmd
-        text: "Obj.3 Accessibilité avec R et OSRM"
-      - href: EnquetR.qmd
-        text: "Obj.4 Enquêter avec R et Kobo"
+        text: "A propos"
+      - section: "DONNEES"
+        contents:       
+          - href: Data_001.qmd
+            text: "Developpement des pays d'Afrique en 2018"        
+      - section: "OBJECTIFS"
+        contents:
+          - href: Enseigne_R.qmd
+            text: "Obj.1 Statistiques avec R"
+          - href: Magrit.qmd
+            text: "Obj.2 Cartographie avec Magrit"
+          - href: Access.qmd
+            text: "Obj.3 Accessibilité avec R et OSRM"
+          - href: EnquetR.qmd
+            text: "Obj.4 Enquêter avec R et Kobo"
     right: 
       - icon: github # add icons as navbar buttons
         href: https://github.com/worldregio/afromapr
