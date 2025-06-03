@@ -15,7 +15,9 @@ website:
       - section: "DONNEES"
         contents:       
           - href: Data_001.qmd
-            text: "Developpement des pays d'Afrique en 2018"        
+            text: "Developpement des pays d'Afrique en 2018"  
+          - href: Data_002.qmd
+            text: "IDH infranational en Afrique de 1992 à 2022"               
       - section: "OBJECTIFS"
         contents:
           - href: Enseigne_R.qmd
