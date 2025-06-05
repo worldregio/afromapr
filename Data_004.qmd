@@ -42,7 +42,7 @@ library(ggplot2)
 
 ::: {.callout-tip}
 ## Télécharger le jeu de données
--  [Cliquer ici](https://github.com/worldregio/afromapr/raw/refs/heads/main/datazip/africa_idh_1992_2022.zip)
+-  [Cliquer ici](https://github.com/worldregio/afromapr/raw/refs/heads/main/datazip/civ_afrobarometer_2023.zip)
 :::
 
 ### Source
