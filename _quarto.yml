@@ -30,10 +30,6 @@ website:
             text: "Obj.2 Cartographie avec Magrit"
           - href: EnquetR.qmd
             text: "Obj.3 Enquêter avec R et Kobo"           
-      - section: "ATELIERS"
-        contents:            
-          - href: Ateliers.qmd
-            text: "Objectifs des ateliers"
     right: 
       - icon: github # add icons as navbar buttons
         href: https://github.com/worldregio/afromapr
